@@ -1,1 +1,1 @@
-"""deskrecorder baseline (single-responsibility pipeline)."""
+"""deskrecorder package (single-responsibility pipeline)."""
